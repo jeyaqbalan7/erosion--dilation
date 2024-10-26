@@ -73,7 +73,8 @@ img_dilate = cv2.dilate(img,kernel1)
 plt.imshow(img_dilate)
 plt.axis('off')
 ```
-![Screenshot 2024-10-26 114401](https://github.com/user-attachments/assets/23d14397-1406-4986-ae92-6edbccf3e963)
+![image](https://github.com/user-attachments/assets/74534098-e506-462b-98b4-03f0f3cbb902)
+
 
 
 ## Result
