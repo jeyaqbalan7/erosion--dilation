@@ -45,7 +45,8 @@ cv2.putText(img ,'Dhiyaneshwar',(60,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(img)
 plt.axis('off')
 ```
-![image](https://github.com/user-attachments/assets/be08ee7e-da2d-4799-a166-91f83da54f22)
+![Screenshot 2024-10-26 114210](https://github.com/user-attachments/assets/fdee58b2-3dce-4c36-a846-153a8342174e)
+
 
 
 # Create the structuring element
@@ -62,8 +63,7 @@ img_erode = cv2.erode(img,kernel1)
 plt.imshow(img_erode)
 plt.axis('off')
 ```
-![image](https://github.com/user-attachments/assets/73399f81-b509-459d-ae57-12af8ac70bca)
-
+![Screenshot 2024-10-26 114336](https://github.com/user-attachments/assets/c504b92c-da8b-462c-94bd-ac2a2cc09793)
 
 
 # Dilate the image
@@ -73,7 +73,8 @@ img_dilate = cv2.dilate(img,kernel1)
 plt.imshow(img_dilate)
 plt.axis('off')
 ```
-![image](https://github.com/user-attachments/assets/ed2d5af9-7b08-4100-972c-e413ba6a2292)
+![Screenshot 2024-10-26 114401](https://github.com/user-attachments/assets/23d14397-1406-4986-ae92-6edbccf3e963)
+
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
