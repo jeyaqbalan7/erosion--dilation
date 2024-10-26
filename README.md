@@ -27,8 +27,8 @@ Apply dilation to the original image using the same structuring element to incre
  
 ## Program:
 ```
-Developed By: Dhiyaneshwar P
-Reference Number :212222110009
+Developed By: Jeyabalan T
+Reference Number :212222240040
 ``` 
 # Import the necessary packages
 ```
