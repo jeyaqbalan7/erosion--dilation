@@ -63,7 +63,8 @@ img_erode = cv2.erode(img,kernel1)
 plt.imshow(img_erode)
 plt.axis('off')
 ```
-![Screenshot 2024-10-26 114336](https://github.com/user-attachments/assets/c504b92c-da8b-462c-94bd-ac2a2cc09793)
+![image](https://github.com/user-attachments/assets/8db230dc-96ed-460c-81de-7826675c593f)
+
 
 
 # Dilate the image
