@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 ```
 img = np.zeros((100,600),dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img ,'Dhiyaneshwar',(60,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(img ,'Jeyablan',(60,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(img)
 plt.axis('off')
 ```
